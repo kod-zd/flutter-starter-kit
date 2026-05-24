@@ -6,6 +6,7 @@ import 'package:starterkit/views/pages/home.dart';
 import 'package:starterkit/views/pages/rate_app.dart';
 import 'package:starterkit/views/pages/refer_a_friend.dart';
 import 'package:starterkit/views/pages/splash_page.dart';
+import '../views/pages/zio_page.dart';
 
 Object appRoutes = {
   '/': (context) => HomePage(),
